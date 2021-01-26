@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T02:01:46.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ZF-tLI195SzzFo_TXLQf" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T02:02:30.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="jF3JrjTEA2cXeUDut-n7" version="14.2.7" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2762" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -162,38 +162,38 @@
             <mxPoint x="590" y="530" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pP7Ctf0CvoEvkSYXaRBV-10" value="commodity" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-700" width="100" height="180" as="geometry" />
+        <mxCell id="pP7Ctf0CvoEvkSYXaRBV-10" value="base" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="235" y="-240" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="pP7Ctf0CvoEvkSYXaRBV-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="pP7Ctf0CvoEvkSYXaRBV-10">
           <mxGeometry x="45" y="100" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pP7Ctf0CvoEvkSYXaRBV-20" value="mall" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-700" width="100" height="180" as="geometry" />
+          <mxGeometry x="95" y="-240" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="pP7Ctf0CvoEvkSYXaRBV-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="pP7Ctf0CvoEvkSYXaRBV-20">
           <mxGeometry x="45" y="100" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pP7Ctf0CvoEvkSYXaRBV-27" value="获取商品信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="pP7Ctf0CvoEvkSYXaRBV-21" target="pP7Ctf0CvoEvkSYXaRBV-11">
+        <mxCell id="pP7Ctf0CvoEvkSYXaRBV-27" value="获取收件人地址蒲" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="pP7Ctf0CvoEvkSYXaRBV-21" target="pP7Ctf0CvoEvkSYXaRBV-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="-590" as="sourcePoint" />
+            <mxPoint x="215" y="-130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pP7Ctf0CvoEvkSYXaRBV-29" value="商城" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="100" y="-750" width="100" height="35" as="geometry" />
+          <mxGeometry x="95" y="-290" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="pP7Ctf0CvoEvkSYXaRBV-30" value="APOS商品库" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="240" y="-750" width="100" height="35" as="geometry" />
+        <mxCell id="pP7Ctf0CvoEvkSYXaRBV-30" value="APOS基础服务" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="235" y="-290" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pP7Ctf0CvoEvkSYXaRBV-36" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="-550" as="targetPoint" />
+            <mxPoint x="155" y="-90" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="290" y="-550" as="sourcePoint" />
+            <mxPoint x="285" y="-90" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pP7Ctf0CvoEvkSYXaRBV-40" value="&lt;span&gt;获取用户地址&lt;/span&gt;" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="-640" width="150" height="60" as="geometry" />
+          <mxGeometry x="-35" y="-180" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pP7Ctf0CvoEvkSYXaRBV-41" value="" style="triangle;html=1;whiteSpace=wrap;" vertex="1" parent="pP7Ctf0CvoEvkSYXaRBV-40">
           <mxGeometry x="20" y="20" width="20" height="30" as="geometry" />
