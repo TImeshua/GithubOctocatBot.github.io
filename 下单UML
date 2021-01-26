@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T01:37:27.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="JsMnb_DafB-p5PHtsjzN" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T01:39:16.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="M6yVaJ4de_4glhRBqpYW" version="14.2.7" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2762" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-20" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.5;exitY=0.864;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-19" edge="1">
+        <mxCell id="7baba1c4bc27f4b0-20" value="获取分箱结果" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.5;exitY=0.864;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="560" as="sourcePoint" />
             <Array as="points">
@@ -106,16 +106,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-39" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1200.0033333333336" y="501" as="sourcePoint" />
-            <mxPoint x="1205.0033333333336" y="539.3333333333334" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1254.67" y="501" />
-              <mxPoint x="1254.67" y="539" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-40" value="商城" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="100" y="30" width="100" height="35" as="geometry" />
         </mxCell>
@@ -159,6 +149,12 @@
             <Array as="points" />
             <mxPoint x="450" y="360" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pP7Ctf0CvoEvkSYXaRBV-7" value="跨境品&lt;br&gt;预下单" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="140" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pP7Ctf0CvoEvkSYXaRBV-8" value="" style="triangle;html=1;whiteSpace=wrap;" vertex="1" parent="pP7Ctf0CvoEvkSYXaRBV-7">
+          <mxGeometry x="20" y="20" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
