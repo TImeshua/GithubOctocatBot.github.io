@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T12:31:39.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="FOp431Qa48GyGWPqMR8X" version="14.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T12:32:26.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="tFtd5fqTttneDXkX538k" version="14.6.6" type="github" pages="2">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1066,13 +1066,7 @@
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-163" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="-230" y="1940" width="10" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-164" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-99" y="2136" as="sourcePoint" />
-            <mxPoint x="-219" y="2136" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-165" value="取消订单" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1" target="aQ_VotOrvT2Zz4xlzFap-162">
+        <mxCell id="aQ_VotOrvT2Zz4xlzFap-165" value="是否可取消" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1" target="aQ_VotOrvT2Zz4xlzFap-162">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="49" y="1969" as="sourcePoint" />
           </mxGeometry>
@@ -1083,25 +1077,16 @@
             <mxPoint x="172" y="2100" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-167" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-96" y="1940" width="10" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-168" value="取消交易单" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.6;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aQ_VotOrvT2Zz4xlzFap-167">
+        <mxCell id="aQ_VotOrvT2Zz4xlzFap-168" value="是否可取消" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.1;exitY=0.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aQ_VotOrvT2Zz4xlzFap-163">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-220" y="1950" as="sourcePoint" />
+            <mxPoint x="-90" y="1950" as="sourcePoint" />
             <mxPoint x="43.5" y="1950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-169" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.4;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="aQ_VotOrvT2Zz4xlzFap-169" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="aQ_VotOrvT2Zz4xlzFap-163">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="37" y="2120" as="sourcePoint" />
             <mxPoint x="-85" y="2120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-170" value="MQ" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-221" y="1940" as="sourcePoint" />
-            <mxPoint x="-91.5" y="1940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
