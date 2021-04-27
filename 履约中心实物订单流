@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T13:13:08.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="84MUh01dJsyDGwbdzkbt" version="14.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T13:14:27.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="GUwb6BkmsrvtacV6QigK" version="14.6.6" type="github" pages="2">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1170,14 +1170,8 @@
             <mxPoint x="801.5" y="1933" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-227" value="交易单领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1983" y="1840" width="100" height="710" as="geometry" />
-        </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-228" value="退货单领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="1712" y="1840" width="100" height="710" as="geometry" />
-        </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-229" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="aQ_VotOrvT2Zz4xlzFap-228">
-          <mxGeometry x="45" y="215" width="10" height="47" as="geometry" />
         </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-230" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="aQ_VotOrvT2Zz4xlzFap-228">
           <mxGeometry x="45" y="384" width="10" height="47" as="geometry" />
@@ -1197,9 +1191,6 @@
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-233" value="仓配领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="1845" y="1840" width="100" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-234" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="aQ_VotOrvT2Zz4xlzFap-233">
-          <mxGeometry x="45" y="95" width="10" height="76" as="geometry" />
-        </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-235" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="aQ_VotOrvT2Zz4xlzFap-233">
           <mxGeometry x="45" y="460" width="10" height="76" as="geometry" />
         </mxCell>
@@ -1218,44 +1209,17 @@
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-238" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="1712" y="1790" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-239" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1983" y="1790" width="100" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-240" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="1845" y="1790" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-242" value="WMS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="1443" y="1840" width="100" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-243" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="aQ_VotOrvT2Zz4xlzFap-242">
-          <mxGeometry x="45" y="89" width="10" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-244" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="1443" y="1790" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-245" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1619" y="2129" as="sourcePoint" />
-            <mxPoint x="1499" y="2129" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-246" value="创建退货单" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1632" y="1941" as="sourcePoint" />
-            <mxPoint x="1890" y="1941" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-247" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1632" y="2008" as="targetPoint" />
-            <mxPoint x="1890" y="2008" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-248" value="OFW履约领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="1577" y="1840" width="100" height="710" as="geometry" />
-        </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-249" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="aQ_VotOrvT2Zz4xlzFap-248">
-          <mxGeometry x="45" y="93" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-250" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="aQ_VotOrvT2Zz4xlzFap-248">
           <mxGeometry x="-89" y="360" width="10" height="210" as="geometry" />
@@ -1277,24 +1241,6 @@
         </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-254" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="1577" y="1790" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-255" value="创建退货单" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1632" y="2055" as="sourcePoint" />
-            <mxPoint x="1758.5" y="2055" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-256" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.4;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1755" y="2100" as="sourcePoint" />
-            <mxPoint x="1633" y="2100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-257" value="订单退货" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1497" y="1933" as="sourcePoint" />
-            <mxPoint x="1626.5" y="1933" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-258" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;退货状态回传&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1310" y="2190" width="115" height="40" as="geometry" />
