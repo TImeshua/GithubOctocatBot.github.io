@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T11:43:40.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="KM2vLt5eZ04keI0IugYQ" version="14.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T11:44:38.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="UUU8ZH20Fxkqa4-2oW4s" version="14.6.6" type="github" pages="2">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -346,6 +346,9 @@
         </mxCell>
         <mxCell id="O5NbPGGvtybYnjljx2Gx-201" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="O5NbPGGvtybYnjljx2Gx-200" vertex="1">
           <mxGeometry x="45" y="423.5" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ukv_kI22OvSuwvI9VOpK-31" value="订单暂停" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O5NbPGGvtybYnjljx2Gx-200">
+          <mxGeometry x="70" y="434" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O5NbPGGvtybYnjljx2Gx-202" value="库存领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="2270" y="90" width="100" height="790" as="geometry" />
