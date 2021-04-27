@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T12:15:27.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="0x2vrCaHmshRaTZ303zm" version="14.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T12:16:28.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="aETtSaSqtMTEgOUJ4Fxv" version="14.6.6" type="github" pages="2">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -972,6 +972,33 @@
             <mxPoint x="560" y="1218" as="sourcePoint" />
             <mxPoint x="675" y="1218" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aQ_VotOrvT2Zz4xlzFap-99" value="交易单领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="135" y="1820" width="100" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="aQ_VotOrvT2Zz4xlzFap-104" value="OFW履约领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="1820" width="100" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="aQ_VotOrvT2Zz4xlzFap-108" value="订单领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="1820" width="100" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="aQ_VotOrvT2Zz4xlzFap-114" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-155" y="1770" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="aQ_VotOrvT2Zz4xlzFap-115" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="135" y="1770" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="aQ_VotOrvT2Zz4xlzFap-116" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-15" y="1770" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="aQ_VotOrvT2Zz4xlzFap-122" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;取消订单&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-405" y="1820" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQ_VotOrvT2Zz4xlzFap-129" value="交易中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="1820" width="100" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="aQ_VotOrvT2Zz4xlzFap-137" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-275" y="1770" width="100" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
