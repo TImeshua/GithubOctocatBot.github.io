@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T12:14:55.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="3E2wWVv7V3KlLt9B5tWh" version="14.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T12:15:05.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="I6fRp--_x_hW9uozDxb1" version="14.6.6" type="github" pages="2">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -470,17 +470,6 @@
         </mxCell>
         <mxCell id="O5NbPGGvtybYnjljx2Gx-301" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="O5NbPGGvtybYnjljx2Gx-244" vertex="1">
           <mxGeometry x="45" y="597" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="O5NbPGGvtybYnjljx2Gx-302" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="O5NbPGGvtybYnjljx2Gx-244" vertex="1">
-          <mxGeometry x="50" y="627" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="O5NbPGGvtybYnjljx2Gx-303" value="发货" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;" parent="O5NbPGGvtybYnjljx2Gx-244" target="O5NbPGGvtybYnjljx2Gx-302" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="607" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="85" y="607" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="O5NbPGGvtybYnjljx2Gx-247" value="实物订单管道" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="1285" y="1000" width="100" height="790" as="geometry" />
