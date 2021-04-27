@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T12:08:07.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="M4_DqysjJ6x08y8qeN4R" version="14.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T12:08:20.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="L7IGZ8XUTGnzdtPzGV9H" version="14.6.6" type="github" pages="2">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -280,7 +280,7 @@
         <mxCell id="O5NbPGGvtybYnjljx2Gx-106" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;已发货&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="112.5" y="1270" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O5NbPGGvtybYnjljx2Gx-108" value="查询库存" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=1;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="O5NbPGGvtybYnjljx2Gx-14" target="O5NbPGGvtybYnjljx2Gx-107" edge="1">
+        <mxCell id="O5NbPGGvtybYnjljx2Gx-108" value="查询库存" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" source="O5NbPGGvtybYnjljx2Gx-14" target="O5NbPGGvtybYnjljx2Gx-107" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="695" y="404" as="sourcePoint" />
           </mxGeometry>
