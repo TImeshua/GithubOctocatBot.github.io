@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T01:50:15.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="kw5a0E_9QaVUxlOsJERF" version="14.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T01:51:37.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="Y1MdOsHcwxmhUSikx7tA" version="14.6.6" type="github" pages="2">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1026,9 +1026,9 @@
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-153" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="-141" y="1770" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-145" value="取消交易单" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.6;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aQ_VotOrvT2Zz4xlzFap-152">
+        <mxCell id="aQ_VotOrvT2Zz4xlzFap-145" value="取消交易单" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="aQ_VotOrvT2Zz4xlzFap-152">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-220" y="2271" as="sourcePoint" />
+            <mxPoint x="-80" y="2271" as="sourcePoint" />
             <mxPoint x="43.5" y="2271" as="targetPoint" />
           </mxGeometry>
         </mxCell>
