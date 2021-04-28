@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T01:46:54.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="NvRkSaKZ_2u70m98ZN4C" version="14.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T01:48:43.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="RzEwBq6QUzM89KNILmZG" version="14.6.6" type="github" pages="2">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -873,7 +873,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-72" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;查询订单列表&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="375" y="1100" width="115" height="50" as="geometry" />
+          <mxGeometry x="401.5" y="1100" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-73" value="查询订单详情" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1" target="aQ_VotOrvT2Zz4xlzFap-65">
           <mxGeometry relative="1" as="geometry">
@@ -886,7 +886,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-76" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;查询订单详情&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="372.5" y="1278" width="117.5" height="50" as="geometry" />
+          <mxGeometry x="399" y="1280" width="117.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-79" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="1" source="aQ_VotOrvT2Zz4xlzFap-66" target="aQ_VotOrvT2Zz4xlzFap-85">
           <mxGeometry relative="1" as="geometry">
@@ -899,7 +899,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-81" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;查询物流信息&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1448" width="110" height="50" as="geometry" />
+          <mxGeometry x="400" y="1446.9" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aQ_VotOrvT2Zz4xlzFap-82" value="交易中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="510" y="980" width="100" height="710" as="geometry" />
@@ -1264,6 +1264,26 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2494" y="1637" as="sourcePoint" />
             <mxPoint x="2414" y="1637" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t-xiiubDoOVXdEQBR-dQ-1" value="通知领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="990" width="100" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="t-xiiubDoOVXdEQBR-dQ-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="t-xiiubDoOVXdEQBR-dQ-1">
+          <mxGeometry x="44" y="295" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t-xiiubDoOVXdEQBR-dQ-8" value="通知交易中心" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;" edge="1" parent="t-xiiubDoOVXdEQBR-dQ-1" source="O5NbPGGvtybYnjljx2Gx-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="295" as="sourcePoint" />
+            <mxPoint x="44" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t-xiiubDoOVXdEQBR-dQ-6" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="270" y="940" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="t-xiiubDoOVXdEQBR-dQ-9" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="t-xiiubDoOVXdEQBR-dQ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="184" y="1313.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
