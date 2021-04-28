@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T08:06:53.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="fAJQPf5N03oL3J1fh3Hg" version="14.6.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-04-28T08:07:01.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="ISUygTy3HQjV6cmkIaOn" version="14.6.6" type="github" pages="6">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1862,7 +1862,7 @@
         <mxCell id="jRNeRR95lyhE9LpvL8C3-4" value="交易单领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="RJpbKg0UoLT91IP9Qr-O-1">
           <mxGeometry x="530" y="100" width="100" height="790" as="geometry" />
         </mxCell>
-        <mxCell id="jRNeRR95lyhE9LpvL8C3-8" value="经销商订单管道" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="RJpbKg0UoLT91IP9Qr-O-1">
+        <mxCell id="jRNeRR95lyhE9LpvL8C3-8" value="预约订单管道" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="RJpbKg0UoLT91IP9Qr-O-1">
           <mxGeometry x="390" y="100" width="100" height="790" as="geometry" />
         </mxCell>
         <mxCell id="jRNeRR95lyhE9LpvL8C3-11" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="RJpbKg0UoLT91IP9Qr-O-1">
