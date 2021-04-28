@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T06:53:36.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="qZ3d7kH7g5-BboiFqbuv" version="14.6.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-04-28T06:54:10.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="YjxocOLxSapUe0fjbYt5" version="14.6.6" type="github" pages="6">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1653,9 +1653,6 @@
         <mxCell id="TyKP8EeJ61AmXCeOIePD-2" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="ClY7C7ZL1r33a0p8ZzJd-1">
           <mxGeometry x="740" y="90" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6bYgy98ZvXdOWwcu4wGq-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;虚拟商品下单&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ClY7C7ZL1r33a0p8ZzJd-1">
-          <mxGeometry x="520" y="120" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="z2QEdXtaeawR0wiCm6hi-0" value="交易单领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="ClY7C7ZL1r33a0p8ZzJd-1">
           <mxGeometry x="1010" y="140" width="100" height="790" as="geometry" />
         </mxCell>
@@ -1725,6 +1722,9 @@
             <mxPoint x="925" y="816.4000000000001" as="targetPoint" />
             <mxPoint x="1195" y="816.4000000000001" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5KNwPs4_bcax_iLQsSCZ-0" value="&#xa;&#xa;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 18px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;虚拟商品下单&lt;/b&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ClY7C7ZL1r33a0p8ZzJd-1">
+          <mxGeometry x="520" y="125" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
