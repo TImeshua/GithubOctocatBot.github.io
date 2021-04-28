@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T06:49:21.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="tyoVt6ZV8-sHGtu48sWI" version="14.6.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-04-28T06:49:53.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="S4TDjCihr8AuuRB6ghGY" version="14.6.6" type="github" pages="6">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1208,9 +1208,6 @@
         <mxCell id="21dZV51ZmjbiDfcZFwJL-5" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="GUpGtzBHL6lFDUNMLAYZ-1">
           <mxGeometry x="612" y="1780" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="21dZV51ZmjbiDfcZFwJL-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;订单退货&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GUpGtzBHL6lFDUNMLAYZ-1">
-          <mxGeometry x="80" y="1830" width="95" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="21dZV51ZmjbiDfcZFwJL-7" value="交易中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="GUpGtzBHL6lFDUNMLAYZ-1">
           <mxGeometry x="210" y="1830" width="100" height="710" as="geometry" />
         </mxCell>
@@ -1364,9 +1361,6 @@
         <mxCell id="21dZV51ZmjbiDfcZFwJL-36" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="GUpGtzBHL6lFDUNMLAYZ-1">
           <mxGeometry x="1169" y="1780" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="21dZV51ZmjbiDfcZFwJL-37" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;退货状态回传&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GUpGtzBHL6lFDUNMLAYZ-1">
-          <mxGeometry x="890" y="1830" width="115" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="dSulWi-eELezhVQ0VF8I-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;退货单已收货&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GUpGtzBHL6lFDUNMLAYZ-1">
           <mxGeometry x="900" y="2473" width="115" height="40" as="geometry" />
         </mxCell>
@@ -1420,6 +1414,12 @@
         </mxCell>
         <mxCell id="dSulWi-eELezhVQ0VF8I-43" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;退货单已支付&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GUpGtzBHL6lFDUNMLAYZ-1">
           <mxGeometry x="900" y="2220" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9nZVSY6Yko8DmqQrcjr7-0" value="&lt;b style=&quot;font-size: 18px&quot;&gt;订单退货&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="GUpGtzBHL6lFDUNMLAYZ-1">
+          <mxGeometry x="30" y="1815" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9nZVSY6Yko8DmqQrcjr7-2" value="&lt;b style=&quot;font-size: 18px&quot;&gt;退货状态回传&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="GUpGtzBHL6lFDUNMLAYZ-1">
+          <mxGeometry x="870" y="1810" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
