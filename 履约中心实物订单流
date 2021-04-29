@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T02:41:58.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="DBYDOkoJAbp3fL_J5765" version="14.6.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-04-29T02:44:27.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="vJAPwK0K8pl7ljx3wFrO" version="14.6.6" type="github" pages="7">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -870,7 +870,7 @@
             <mxPoint x="-80" y="545.0500000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yqlLCMv0H2EnhDlq1elT-3" value="是否可取消" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="aQ_VotOrvT2Zz4xlzFap-104">
+        <mxCell id="yqlLCMv0H2EnhDlq1elT-3" value="取消订单" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="aQ_VotOrvT2Zz4xlzFap-104">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-81" y="489" as="sourcePoint" />
             <mxPoint x="45" y="489" as="targetPoint" />
@@ -903,7 +903,7 @@
             <mxPoint x="-219" y="2457" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aQ_VotOrvT2Zz4xlzFap-149" value="取消订单" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1">
+        <mxCell id="aQ_VotOrvT2Zz4xlzFap-149" value="取消发货单" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="43.5" y="2321" as="sourcePoint" />
             <mxPoint x="172" y="2321" as="targetPoint" />
